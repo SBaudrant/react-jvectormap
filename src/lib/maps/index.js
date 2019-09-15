@@ -1,4 +1,6 @@
 export default [
+    'fr_mill',
+    'fr_regions_mill',
     'world_mill',
     'us_aea',
     'europe_mill',
